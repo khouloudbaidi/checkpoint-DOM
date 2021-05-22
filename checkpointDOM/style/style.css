@@ -1,0 +1,12 @@
+.carousel-item {
+  height: 400px;
+}
+.w-100 {
+  height: 100%;
+}
+.pr {
+  font-size: large;
+  font-style: italic;
+  color: rgb(80, 15, 15);
+  font-weight: bold;
+}
